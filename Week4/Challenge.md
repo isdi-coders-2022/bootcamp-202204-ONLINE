@@ -1,6 +1,4 @@
-# Week 2 - Challenge 2
-## strictEquals function
-
+# Week 4 - strictEquals function
 Escribe una función llamada `strictEquals(a, b)` que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.
 
 En un fichero independiente, testea la función con este set de pruebas:

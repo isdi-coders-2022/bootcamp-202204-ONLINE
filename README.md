@@ -17,6 +17,10 @@
 
 [Challenge. Panic Web](./Week3/challenge-weekend/readme.md)
 
-## Week 3
+## Week 4
 
 [Challenge. StrictEquals Function](./Week4/Challenge.md)
+
+## Week 5
+
+[Challenge. Functions for array methods](./Week5/Challenge.md)

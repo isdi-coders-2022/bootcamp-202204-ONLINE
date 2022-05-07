@@ -1,6 +1,4 @@
-# Week 1 - Challenge 3
-## Maquetación Pets
-
+# Week 2. Maquetación Pets
 Maqueta con HTML y CSS las capturas adjuntas (`mobile` y `desktop`), teniendo en cuenta las siguientes especificaciones:
 
 -   Las tipografías usadas son la Nunito y la Nunito Extrabold.
