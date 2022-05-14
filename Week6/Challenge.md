@@ -18,11 +18,9 @@ Si quieres probar como funciona para hacerte una idea, puedes probar una versió
 ## Requisitos
 
 1. Debe de estar testeado con Jest.
-2. Debe utilizarse SonarQube para ir comprobando la calidad del código.
-3. Se utilizará Husky para manejar los git-hooks, utilizando los archivos adjuntos.
-4. Debe utilizarse GitActions el workflow adjunto.
-5. Debe protegerse main en GitHub para que todo lo que se mergee pase por pull-request y que el workflow se cumpla.
-6. En el caso de llegar a HTML/CSS.
+2. Se utilizará Husky para manejar los git-hooks, utilizando los archivos adjuntos.
+3. Debe protegerse main en GitHub para que todo lo que se mergee pase por pull-request y que el workflow se cumpla.
+4. En el caso de llegar a HTML/CSS.
    4.1. Se utilizará BEM/SASS.
    4.2. Se debe desplegar a Netlify.
 
